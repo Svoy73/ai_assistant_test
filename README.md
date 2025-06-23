@@ -28,14 +28,14 @@
 ---
 
 ### Рекомендации по рискам
-![Рекомендации по рискам](https://github.com/Svoy73/ai_assistant_test/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-23%20%D0%B2%2021.39.35.png?raw=true)
+![Описание возможностей](https://github.com/Svoy73/ai_assistant_test/blob/main/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B8%CC%86.png?raw=true)
 
-> Ассистент предлагает список рисков и рекомендаций по их митигации в зависимости от выбранной стадии проекта.
+> Ассистент сообщает о границе своих возможностей и профессиональной экспертизе.
 
 ---
 
 ### Запись на встречу
-![Запись на встречу](https://github.com/Svoy73/ai_assistant_test/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-23%20%D0%B2%2021.39.48.png?raw=true)
+![Запись на встречу](https://github.com/Svoy73/ai_assistant_test/blob/main/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8%20%D0%B2%20%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D0%B5.png?raw=true)
 
 > Пользователь выбирает удобное время, бот проверяет доступность через Google Calendar и создаёт событие.
 
