@@ -28,7 +28,7 @@
 ---
 
 ### Рекомендации по рискам
-![Рекомендации по рискам]([/docs/screenshots/appointment.png](https://raw.githubusercontent.com/Svoy73/ai_assistant_test/refs/heads/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-23%20%D0%B2%2021.39.35.png))
+![Рекомендации по рискам](https://github.com/Svoy73/ai_assistant_test/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-23%20%D0%B2%2021.39.35.png?raw=true)
 
 > Ассистент предлагает список рисков и рекомендаций по их митигации в зависимости от выбранной стадии проекта.
 
